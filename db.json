@@ -1,0 +1,193 @@
+{
+  "sneakers": [
+    {
+      "id": 1,
+      "brand":"Nike",
+      "name":"Nice Kicks Low Rider",
+      "retailPrice":120,
+      "imageUrl":"https://images.stockx.com/images/Nike-Air-Huarache-Nice-Kicks-Low-Rider-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1627415417"
+    },
+    {
+      "id": 2,
+      "brand":"Nike",
+      "name":"Wolverine",
+      "retailPrice": 90,
+      "imageUrl":"https://images.stockx.com/images/Nike-Big-Nike-High-Wolverine.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1627415411"
+    },
+    {
+      "id": 3,
+      "brand":"Nike",
+      "name":"Spike Lee",
+      "retailPrice": 90,
+      "imageUrl":"https://images.stockx.com/images/Nike-Big-Nike-High-Spike-Lee-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1628001462"
+    },
+    {
+      "id": 4,
+      "brand":"Nike",
+      "name":"EYBL Nike Nationals",
+      "retailPrice": 150,
+      "imageUrl":"https://images.stockx.com/images/Nike-KD-12-EYBL-Nike-Natonals.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1607671852"
+    },
+    {
+      "id": 5,
+      "brand":"Nike",
+      "name":"Nike Sportswear Grey",
+      "retailPrice": 180,
+      "imageUrl":"https://images.stockx.com/images/Nike-Air-Max-95-Nike-Sportswear-Grey.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1617346077"
+    },
+    {
+      "id": 6,
+      "brand":"Adidas",
+      "name":"Blink",
+      "retailPrice": 110,
+      "imageUrl":"https://images.stockx.com/images/adidas-Streetball-Blink.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626899839"
+    },
+    {
+      "id": 7,
+      "brand":"Adidas",
+      "name":"Unity",
+      "retailPrice": 75,
+      "imageUrl":"https://images.stockx.com/images/adidas-Coronado-Unity.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1606935739"
+    },
+    {
+      "id": 8,
+      "brand":"Adidas",
+      "name":"Alphatype",
+      "retailPrice": 100,
+      "imageUrl":"https://images.stockx.com/images/adidas-Deerupt-Alphatype.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1606936552"
+    },
+    {
+      "brand":"Adidas",
+      "id": 10,
+      "name":"Rivalry",
+      "retailPrice": 160,
+      "imageUrl":"https://images.stockx.com/images/adidas-Superstar-Rivalry.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626900227"
+    },
+    {
+      "brand":"Jordan",
+      "id": 11,
+      "name":"Hare Jordan (2009)",
+      "retailPrice": 110,
+      "imageUrl":"https://images.stockx.com/images/Air-Jordan-1-Retro-Hare-Jordan-2009-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1607054883"
+    },
+    {
+      "brand":"Jordan",
+      "id": 12,
+      "name":"Jordan Brand Classic West",
+      "retailPrice": 185,
+      "imageUrl":"https://images.stockx.com/images/Air-Jordan-XXX1-Air-Jordan-Brand-Classic-West-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626898251"
+    },
+    {
+      "brand":"Jordan",
+      "id": 13,
+      "name":"Fearless (PS)",
+      "retailPrice": 60,
+      "imageUrl":"https://images.stockx.com/images/Air-Jordan-Sky-Jordan-1-Fearless-PS-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612904133"
+    },
+    {
+      "brand":"Jordan",
+      "id": 14,
+      "name":"Jordan Brand Classic",
+      "retailPrice": 170,
+      "imageUrl":"https://images.stockx.com/images/Air-Jordan-2011-Jordan-Brand-Classic-West.png?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626900715"
+    },
+    {
+      "brand":"Jordan",
+      "id": 15,
+      "name":"Hare Jordan (2015)",
+      "retailPrice": 125,
+      "imageUrl":"https://images.stockx.com/images/jordan-1-retro-hare-jordan-2015.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1607054896"
+    },
+    {
+      "brand":"Gucci",
+      "id": 16,
+      "name":"Gucci Band",
+      "retailPrice": 670,
+      "imageUrl":"https://images.stockx.com/images/Gucci-Ace-Gucci-Band.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1619737507"
+    },
+    {
+      "brand":"Gucci",
+      "id": 17,
+      "name":"Gucci Band",
+      "retailPrice": 890,
+      "imageUrl":"https://images.stockx.com/images/Gucci-Rython-Gucci-Band-Product.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1612905267"
+    },
+    {
+      "brand":"Gucci",
+      "id": 20,
+      "name":"Wave",
+      "retailPrice": 890,
+      "imageUrl":"https://images.stockx.com/images/Gucci-Rython-Wave.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1618530192"
+    },
+    {
+      "brand":"Dior",
+      "id": 21,
+      "name":"Mauve",
+      "retailPrice": 1050,
+      "imageUrl":"https://images.stockx.com/Dior-B24-Mauve.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1603481985"
+    },
+    {
+      "brand":"Dior",
+      "id": 22,
+      "name":"Cream",
+      "retailPrice": 1150,
+      "imageUrl":"https://images.stockx.com/images/Dior-B30-Cream.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1635535739"
+    },
+    {
+      "brand":"Dior",
+      "id": 23,
+      "name":"Black",
+      "retailPrice": 1100,
+      "imageUrl":"https://images.stockx.com/images/Dior-B22-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1607043118"
+    },
+    {
+      "brand":"Dior",
+      "id": 24,
+      "name":"Grey",
+      "retailPrice": 1150,
+      "imageUrl":"https://images.stockx.com/images/Dior-B30-Grey.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1635535740"
+    },
+    {
+      "brand":"Dior",
+      "id": 25,
+      "name":"Olive",
+      "retailPrice": 1150,
+      "imageUrl":"https://images.stockx.com/images/Dior-B30-Olive.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1635535740"
+    },
+    {
+      "brand":"Puma",
+      "id": 26,
+      "name":"Puma Black",
+      "retailPrice": 100,
+      "imageUrl":"https://images.stockx.com/images/Puma-Puma-States-Stampd-Puma-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626898535"
+    },
+    {
+      "brand":"Puma",
+      "id": 27,
+      "name":"Puma Black/Puma Black",
+      "retailPrice": 100,
+      "imageUrl":"https://images.stockx.com/images/Puma-Suede-Platform-Elemental-Puma-Black-Puma-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626898970"
+    },
+    {
+      "brand":"Puma",
+      "id": 28,
+      "name":"Puma Black",
+      "retailPrice": 90,
+      "imageUrl":"https://images.stockx.com/images/Puma-Suede-Naturel-Puma-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626898949"
+    },
+    {
+      "brand":"Puma",
+      "id": 29,
+      "name":"White",
+      "retailPrice": 70,
+      "imageUrl":"https://images.stockx.com/images/Puma-Puma-Tempo-L-White.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626898635"
+    },
+    {
+      "brand":"Puma",
+      "id": 30,
+      "name":"Puma Black",
+      "retailPrice": 65,
+      "imageUrl":"https://images.stockx.com/images/Puma-Suede-Classic-Puma-Black.jpg?fit=fill&bg=FFFFFF&w=700&h=500&auto=format,compress&trim=color&q=90&dpr=2&updated_at=1626899068"
+    }
+  ]
+}
